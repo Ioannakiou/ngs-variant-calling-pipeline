@@ -1,6 +1,9 @@
 venv/
-results/
 *.fastq
 *.bam
 *.sam
 *.gz
+*.zip
+results/aligned*
+results/variants*
+results/*_fastqc*
