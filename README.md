@@ -114,14 +114,4 @@ bash scripts/pipeline.sh
 python scripts/parse_variants.py
 ```
 
-## Skills Demonstrated
-
-- Linux command line & Bash scripting
-- NGS data processing (FASTQ → BAM → VCF)
-- Sequencing quality control
-- Read alignment to reference genomes
-- Variant calling and quality filtering
-- Python data analysis and visualisation
-- Reproducible research practices
-- Version control with Git
 
