@@ -1,0 +1,6 @@
+venv/
+results/
+*.fastq
+*.bam
+*.sam
+*.gz
